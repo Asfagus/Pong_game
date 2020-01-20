@@ -1,3 +1,4 @@
+//This module is implemented from Yoshis-Nightmare
 module vga_sync(
 	input clk,reset,
 	output hsync,vsync, video_on,p_tick,
